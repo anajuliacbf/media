@@ -1,1 +1,1 @@
-# media
+Escreva um programa de um programa que solicite dois números quaisquer ao usuário, se os números forem iguais mostre uma mensagem e mostre a media dos dois, caso contrário mostre qual o maior número e qual o menor número. 
